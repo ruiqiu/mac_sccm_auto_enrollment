@@ -1,0 +1,6 @@
+#!/bin/sh
+
+/tmp/enroll.sh
+
+
+exit 0
